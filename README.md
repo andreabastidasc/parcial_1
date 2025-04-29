@@ -4,7 +4,7 @@ This is a simple two-screen virtual wallet built with **Kotlin**, **Jetpack Comp
 
 ## 🪄 Demo Preview
 
-![App Flow](screenshots/app-flow.gif)
+![App Flow](https://raw.githubusercontent.com/andreabastidasc/parcial_1/main/screenshots/app-flow.gif)
 
 ## 📱 Features
 
