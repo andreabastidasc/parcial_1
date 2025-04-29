@@ -1,0 +1,31 @@
+# Ignore IntelliJ/Android Studio project files
+*.iml
+.idea/
+.idea/*
+
+# Ignore Gradle build files
+.gradle/
+build/
+**/build/
+captures/
+
+# Ignore local configuration files
+local.properties
+/local.properties
+
+# OS-specific files
+.DS_Store
+Thumbs.db
+
+# External native builds
+.externalNativeBuild
+.cxx
+
+# Keystores and signing configs
+*.jks
+*.keystore
+
+# Compose previews and temporary artifacts
+navigation.json
+*.log
+*.swp
