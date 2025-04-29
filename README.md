@@ -2,6 +2,10 @@
 
 This is a simple two-screen virtual wallet built with **Kotlin**, **Jetpack Compose**, and **Material 3**.
 
+## 🪄 Demo Preview
+
+![App Flow](screenshots/app-flow.gif)
+
 ## 📱 Features
 
 - Display current wallet balance
